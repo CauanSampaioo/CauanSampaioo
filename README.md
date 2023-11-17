@@ -1,7 +1,7 @@
 ##Cauan Sampaio
 
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estudo JavaScript
+- 🔭 Desenvolvedor
+- 🌱 Estudante de ADS
 
 <div align="center">
   <a href="https://github.com/CauanSampaioo">
